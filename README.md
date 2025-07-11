@@ -1,11 +1,11 @@
-<p style="font-size: 2rem; font-weight: bold; padding: 0">👋 Hi, I'm Anoof Abdul Kadar,</p>
-<span style="font-size: 1.25rem;">&emsp;&emsp;&ensp;BCA Graduate | MCA Candidate | Passionate about Scalable Frontend Design</span>
+# 👋 Hi, I'm Anoof Abdul Kadar
+### BCA Graduate | MCA Candidate | Passionate about Scalable Frontend Design
 
 Indian developer based in Kuwait,
 passionate about frontend architecture and clean UI design.
 Expanding my backend expertise to complement a frontend-first mindset.
 
-# 🛠️ Core Technologies I Work With
+## 🛠️ Core Technologies I Work With
 
 | Category               | Tools & Technologies                                           |
 |------------------------|----------------------------------------------------------------|
@@ -18,6 +18,6 @@ Expanding my backend expertise to complement a frontend-first mindset.
 
 <!-- # 📌 Featured Projects -->
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [📫 Email me](mailto:anuabdulkadar@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/anu1o)
