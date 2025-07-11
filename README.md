@@ -22,5 +22,3 @@ Expanding my backend expertise to complement a frontend-first mindset.
 ## 🌐 Connect With Me
 
 [📫 Email me](mailto:anuabdulkadar@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/anu1o)
-
-anuabdulkadar@gmail.com
