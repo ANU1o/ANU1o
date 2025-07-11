@@ -1,4 +1,4 @@
-<span style="display:block; font-size: 2rem; font-weight: bold;">👋 Hi, I'm Anoof Abdul Kadar,</span>
+<p style="font-size: 2rem; font-weight: bold; padding: 0">👋 Hi, I'm Anoof Abdul Kadar,</p>
 <span style="font-size: 1.25rem;">&emsp;&emsp;&ensp;BCA Graduate | MCA Candidate | Passionate about Scalable Frontend Design</span>
 
 Indian developer based in Kuwait,
