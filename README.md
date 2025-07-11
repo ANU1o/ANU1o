@@ -15,7 +15,8 @@ Expanding my backend expertise to complement a frontend-first mindset.
 | **Databases**     | `MySQL` `MongoDB`                                              |
 | **Languages**     | `JavaScript` `TypeScript` `Java` `Python` `C++` `C`            |
 | **Design & UI**   | `Figma` `UI/UX Principles`                                     |
-| **Tools & Other** | `MS Office`                                                    |
+
+<!-- | **Tools & Other** | `MS Office`                                                    | -->
 
 <!-- # 📌 Featured Projects -->
 
