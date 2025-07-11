@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Anoof Abdul Kadar
-### BCA Graduate | MCA Candidate | Passionate about Scalable Frontend Design
+### BCA Graduate | MCA Student
 
 Indian developer based in Kuwait,
 passionate about frontend architecture and clean UI design.
