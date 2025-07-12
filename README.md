@@ -8,7 +8,7 @@ Expanding my backend expertise to complement a frontend-first mindset.
 
 ## 🛠️ Core Technologies I Work With
 
-<table>
+<table style="width: 100%;">
   <thead>
     <tr>
       <th>Category</th>
