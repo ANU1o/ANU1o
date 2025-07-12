@@ -8,7 +8,7 @@ Expanding my backend expertise to complement a frontend-first mindset.
 
 ## 🛠️ Core Technologies I Work With
 
-<table style="width: 100%;">
+<table>
   <thead>
     <tr>
       <th>Category</th>
@@ -19,12 +19,12 @@ Expanding my backend expertise to complement a frontend-first mindset.
     <tr>
       <td><b>Frontend</b></td>
       <td>
-        <code><img src="./assets/images/vectors/frontend/HTML5.svg" height="15rem" /> HTMl</code>
-        <code><img src="./assets/images/vectors/frontend/React.svg" height="15rem" /> React</code>
-        <code><img src="./assets/images/vectors/frontend/CSS3.svg" height="15rem" /> CSS</code>
-        <code><img src="./assets/images/vectors/frontend/Sass.svg" height="15rem" /> SASS</code>
-        <code><img src="./assets/images/vectors/frontend/Bootstrap.svg" height="15rem" /> Bootstrap</code>
-        <code><img src="./assets/images/vectors/frontend/FDS.svg" height="15rem" /> Fluent Design System</code>
+        <code><img src="./assets/images/vectors/frontend/HTML5.svg" height="15rem" /> HTMl</code><br/>
+        <code><img src="./assets/images/vectors/frontend/React.svg" height="15rem" /> React</code><br/>
+        <code><img src="./assets/images/vectors/frontend/CSS3.svg" height="15rem" /> CSS</code><br/>
+        <code><img src="./assets/images/vectors/frontend/Sass.svg" height="15rem" /> SASS</code><br/>
+        <code><img src="./assets/images/vectors/frontend/Bootstrap.svg" height="15rem" /> Bootstrap</code><br/>
+        <code><img src="./assets/images/vectors/frontend/FDS.svg" height="15rem" /> Fluent Design System</code><br/>
       </td>
     </tr>
     <tr>
