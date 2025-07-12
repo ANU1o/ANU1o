@@ -30,37 +30,36 @@ Expanding my backend expertise to complement a frontend-first mindset.
     <tr>
       <td><b>Backend</b></td>
       <td>
-        <code><img src="./assets/images/vectors/backend/NodeJS.svg" height="15rem" /> NodeJS</code>
-        <code><img src="./assets/images/vectors/backend/ExpressJS.svg" height="15rem" /> ExpressJS</code></td>
+        <code><img src="./assets/images/vectors/backend/NodeJS.svg" height="15rem" /> NodeJS</code><br/>
+        <code><img src="./assets/images/vectors/backend/ExpressJS.svg" height="15rem" /> ExpressJS</code><br/></td>
     </tr>
     <tr>
       <td><b>Databases</b></td>
       <td>
-        <code><img src="./assets/images/vectors/database/MySQL.svg" height="15rem" /> MySQL</code>
-        <code><img src="./assets/images/vectors/database/MongoDB.svg" height="15rem" /> MongoDB</code>
+        <code><img src="./assets/images/vectors/database/MySQL.svg" height="15rem" /> MySQL</code><br/>
+        <code><img src="./assets/images/vectors/database/MongoDB.svg" height="15rem" /> MongoDB</code><br/>
     </td>
     </tr>
     <tr>
       <td><b>Languages</b></td>
       <td>
-        <code><img src="./assets/images/vectors/language/JavaScript.svg" height="15rem" /> JavaScript</code>
-        <code><img src="./assets/images/vectors/language/TypeScript.svg" height="15rem" /> TypeScript</code>
-        <code><img src="./assets/images/vectors/language/Java.svg" height="15rem" /> Java</code>
-        <code><img src="./assets/images/vectors/language/Python.svg" height="15rem" /> Python</code>
-        <code><img src="./assets/images/vectors/language/cpp.svg" height="15rem" /> C++</code>
-        <code><img src="./assets/images/vectors/language/c.svg" height="15rem" /> C</code>
+        <code><img src="./assets/images/vectors/language/JavaScript.svg" height="15rem" /> JavaScript</code><br/>
+        <code><img src="./assets/images/vectors/language/TypeScript.svg" height="15rem" /> TypeScript</code><br/>
+        <code><img src="./assets/images/vectors/language/Java.svg" height="15rem" /> Java</code><br/>
+        <code><img src="./assets/images/vectors/language/Python.svg" height="15rem" /> Python</code><br/>
+        <code><img src="./assets/images/vectors/language/cpp.svg" height="15rem" /> C++</code><br/>
+        <code><img src="./assets/images/vectors/language/c.svg" height="15rem" /> C</code><br/>
       </td>
     </tr>
     <tr>
       <td><b>Design & UI</b></td>
       <td>
-      <code><img src="./assets/images/vectors/design/Figma.svg" height="15rem" /> Figma</code>
-      <code><img src="./assets/images/vectors/design/UI&UX.svg" height="15rem" /> UI/UX Principles</code></td>
+        <code><img src="./assets/images/vectors/design/Figma.svg" height="15rem" /> Figma</code><br/>
+        <code><img src="./assets/images/vectors/design/UI&UX.svg" height="15rem" /> UI/UX Principles</code><br/>
+      </td>
     </tr>
   </tbody>
 </table>
-
-<!-- | **Tools & Other** | `MS Office`                                                    | -->
 
 <!-- # 📌 Featured Projects -->
 
