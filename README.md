@@ -2,6 +2,8 @@
 
 ### BCA Graduate | MCA Student
 
+[![GitHub Followers](https://img.shields.io/github/followers/ANU1o?style=social)](https://github.com/ANU1o?tab=followers)
+
 Indian developer based in Kuwait,
 passionate about frontend architecture and clean UI design.
 Expanding my backend expertise to complement a frontend-first mindset.
